@@ -1,4 +1,4 @@
-export const host = "https://jpchattify-app.netlify.app";
+export const host = "https://chattify-1.onrender.com";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
